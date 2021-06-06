@@ -1,0 +1,4 @@
+1: Comando para crear aplicaciones con typescript en react native
+    npx react-native init AwesomeTSProject --template react-native-template-typescript
+
+	react-native init NavigationConceptsApp --template react-native-template-typescript
